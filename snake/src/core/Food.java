@@ -1,7 +1,7 @@
-package com.game.snake.core;
+package core;
 
-import com.game.snake.constant.Constant;
-import com.game.snake.util.ImageUtil;
+import constant.Constant;
+import util.ImageUtil;
 
 import java.awt.*;
 

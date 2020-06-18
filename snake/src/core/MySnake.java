@@ -1,4 +1,4 @@
-package com.game.snake.core;
+package core;
 
 import java.awt.Graphics;
 import java.awt.Point;
@@ -7,9 +7,9 @@ import java.awt.image.BufferedImage;
 import java.util.LinkedList;
 import java.util.List;
 
-import com.game.snake.constant.Constant;
-import com.game.snake.util.GameUtil;
-import com.game.snake.util.ImageUtil;
+import constant.Constant;
+import util.GameUtil;
+import util.ImageUtil;
 
 public class MySnake extends SnakeObject implements Moveable {
 	//蛇头图片（未旋转）

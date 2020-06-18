@@ -1,4 +1,4 @@
-package com.game.snake.core;
+package core;
 
 import java.awt.Color;
 import java.awt.Frame;
@@ -7,7 +7,7 @@ import java.awt.Image;
 import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 
-import com.game.snake.constant.Constant;
+import constant.Constant;
 
 public class MyFrame extends Frame{
 	/**

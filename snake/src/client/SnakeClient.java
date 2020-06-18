@@ -1,4 +1,4 @@
-package com.game.snake.client;
+package client;
 
 import java.awt.Color;
 import java.awt.Font;
@@ -7,10 +7,10 @@ import java.awt.Image;
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;
 
-import com.game.snake.core.Food;
-import com.game.snake.core.MyFrame;
-import com.game.snake.core.MySnake;
-import com.game.snake.util.ImageUtil;
+import core.Food;
+import core.MyFrame;
+import core.MySnake;
+import util.ImageUtil;
 
 public class SnakeClient extends MyFrame {
 	

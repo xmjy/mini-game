@@ -1,4 +1,4 @@
-package com.game.snake.core;
+package core;
 
 import java.awt.*;
 

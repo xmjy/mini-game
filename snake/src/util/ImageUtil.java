@@ -1,10 +1,10 @@
-package com.game.snake.util;
+package util;
 
 import java.awt.Image;
 import java.util.HashMap;
 import java.util.Map;
 
-import com.game.snake.constant.Constant;
+import constant.Constant;
 
 public class ImageUtil {
 	public static Map<String,Image> images = new HashMap<>();
