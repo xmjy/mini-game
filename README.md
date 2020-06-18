@@ -1,4 +1,4 @@
-# mini-game
+# mini-game 2020/06/18 start
 java编写各类小游戏
 目标计划完成：
 - 贪吃蛇
